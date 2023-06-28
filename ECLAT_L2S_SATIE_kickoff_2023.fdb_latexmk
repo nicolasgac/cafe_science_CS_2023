@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1687935577 "/Users/gac/2-Recherche/Recherche_Seminaires/cafe_science_CS_2023/ECLAT_L2S_SATIE_kickoff_2023.tex" "ECLAT_L2S_SATIE_kickoff_2023.pdf" "ECLAT_L2S_SATIE_kickoff_2023" 1687935581 0
-  "/Users/gac/2-Recherche/Recherche_Seminaires/cafe_science_CS_2023/ECLAT_L2S_SATIE_kickoff_2023.tex" 1687935577 12417 9f2b8c374231aa3614304bf10461a5e2 ""
+["pdflatex"] 1687980710 "/Users/gac/2-Recherche/Recherche_Seminaires/cafe_science_CS_2023/ECLAT_L2S_SATIE_kickoff_2023.tex" "ECLAT_L2S_SATIE_kickoff_2023.pdf" "ECLAT_L2S_SATIE_kickoff_2023" 1687980715 0
+  "/Users/gac/2-Recherche/Recherche_Seminaires/cafe_science_CS_2023/ECLAT_L2S_SATIE_kickoff_2023.tex" 1687980710 12418 8d973f994d17303f8db75c661016f35e ""
   "/usr/local/Cellar/texlive/20230313/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1678549815 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/Cellar/texlive/20230313/share/texmf-dist/fonts/map/fontname/texfonts.map" 1678549815 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/Cellar/texlive/20230313/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1678549815 4609045 74543da1ab9350ba886fce0af49a2cfd ""
@@ -307,10 +307,10 @@
   "/usr/local/Cellar/texlive/20230313/share/texmf-dist/web2c/texmf.cnf" 1681450371 40748 4081c8bc921e56c865f975bd762e388c ""
   "/usr/local/Cellar/texlive/20230313/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1678549815 7883974 374d6b5b24a851314cb6e1f570385f8f ""
   "DARKERA_logo_color.pdf" 1680624796 10337089 c3029206970ecde52d9fe23699082845 ""
-  "ECLAT_L2S_SATIE_kickoff_2023.aux" 1687935581 4506 49be198683ccb8a0a8b4fe11a89837b6 "pdflatex"
-  "ECLAT_L2S_SATIE_kickoff_2023.nav" 1687935581 2351 b6f6111bea84d64fa63262d4da2283ef "pdflatex"
-  "ECLAT_L2S_SATIE_kickoff_2023.out" 1687935581 1119 5ae1846f80a4f6c6e1bce2861b1beabf "pdflatex"
-  "ECLAT_L2S_SATIE_kickoff_2023.tex" 1687935577 12417 9f2b8c374231aa3614304bf10461a5e2 ""
+  "ECLAT_L2S_SATIE_kickoff_2023.aux" 1687980714 4506 49be198683ccb8a0a8b4fe11a89837b6 "pdflatex"
+  "ECLAT_L2S_SATIE_kickoff_2023.nav" 1687980714 2351 b6f6111bea84d64fa63262d4da2283ef "pdflatex"
+  "ECLAT_L2S_SATIE_kickoff_2023.out" 1687980714 1119 5ae1846f80a4f6c6e1bce2861b1beabf "pdflatex"
+  "ECLAT_L2S_SATIE_kickoff_2023.tex" 1687980710 12418 8d973f994d17303f8db75c661016f35e ""
   "L2S_tutelles_vertical.pdf" 1681765312 72195 7ff43ce2595e8a08b2e407c635ac35aa ""
   "SATIE.png" 1682768566 8910 f68f2cc984480d4a2e5e0a5b29514e5a ""
   "anr-light.pdf" 1680624796 384890 8b30e9d038dbc625e5748d651aefc28c ""
