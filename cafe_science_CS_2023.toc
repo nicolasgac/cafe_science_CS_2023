@@ -1,0 +1,8 @@
+\babel@toc {french}{}\relax 
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Radioastronomy context}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{SKA, an exascale radio telescope (2021-28)}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{SKA computing, an HPC challenge}{3}{0}{1}
+\beamer@sectionintoc {2}{Dark-era goals}{5}{0}{2}
+\beamer@sectionintoc {3}{Project organisation}{7}{0}{3}
+\beamer@subsectionintoc {3}{1}{Team}{7}{0}{3}
