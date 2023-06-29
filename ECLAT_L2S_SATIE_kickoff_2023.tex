@@ -126,12 +126,13 @@
 %\title[SKA computing]{\textbf{Le radiotélescope SKA}} 
 %\subtitle{Un problème inverse de grande dimension à résoudre en temps réel}
 
-\title{\textbf{Problèmes inverses de grande dimension à résoudre en temps réel}} 
+\title[]{\textbf{Problèmes inverses en radioastronomie}\\
+\vspace{0.3cm} \textit{Travaux L2S \& SATIE}} 
 
 %\institute{}%Laboratoire des Signaux et Systèmes (L2S) -  Groupe Problèmes Inverses (GPI) }
 \author[L2S/SATIE]{\includegraphics[height=1.7 cm]{logo-saclay-white.png} \\ \vspace{0.5 cm} \includegraphics[height=1.7 cm]{L2S_tutelles_vertical.pdf}  \hspace{2cm} \includegraphics[height=1.5 cm]{SATIE}
  }
-\date[ECLAT]{\textit{Kick-off ECLAT, 29 juin 2023} }
+\date[Kick-off ECLAT]{\textit{Labcom ECLAT, Kick-off - 29 juin 2023} }
 
 
 
@@ -154,32 +155,30 @@
      { \scalebox{0.75}{\tiny{ANR-20-CE46-0001-01} \includegraphics[width=0.1\textwidth]{anr-light.pdf}  }} }
 \end{comment}
 
+\section{Travaux L2S}
 
 \begin{frame}
   \frametitle{Laboratoire des Signaux et Systèmes (L2S)}
-
-  \vfill %                                                                                                                            
-  Université Paris-Saclay -- CNRS -- CentraleSupélec \vfill
+  \vfill %                                                                                                                      
+  %Université Paris-Saclay -- CNRS -- CentraleSupélec \vfill
   \vfill
-  \begin{block}{Expertise}
-      \begin{itemize}
-      \item Trois pôles \(\rightarrow\) Signaux et statistiques \(\rightarrow\) Groupe Problèmes Inverses (GPI)
-      \item \(\approx 30\) perm. pos. and \(\approx30\) PhD. et Postdoc
-      \end{itemize}
+  \begin{block}{Pôle signaux et statistiques}
+   \(\approx 30\) permanents et \(\approx30\) doctorants
   \end{block}
   \vfill
-  \begin{block}{Applications}
+  \begin{block}{Travaux en radioastronomie}
     \begin{itemize}
-    \item Tomographie, Contrôle Non Destructif (CND)
-    \item Restauration et reconstruction d'image, super-résolution
-    \item Astronomie, microscopie, imagerie industrielle
+    \item Nicolas Gac \scriptsize{(SATIE au 1$^{er}$ sept. 2023)} \hfill \small{\textit{Adéquation Algorithme Architecture}}
+    \item \normalsize{François Orieux} \hfill \small{\textit{Problèmes inverses}}
+    \item \normalsize{Mohammed Nabil El Korso} \hfill \small{\textit{Statistiques robustes}}
     \end{itemize}
   \end{block}
   \vfill
-  \begin{block}{Méthodes}
+  \begin{block}{Thèse Nicolas Monnier (2020-23)}
     \begin{itemize}
-    \item Approches Bayésiennes, Ondelettes, optimization, MCMC, ML
-    \item Adéquation Algorithme Architecture
+        \item \textit{ExaSKA : Parallelization on a High Performance Computing server for the exascale
+    radiotelescope SKA}
+    \item Collaboration L2S/Obs. Paris/Atos Bull (financement Région IdF)
     \end{itemize}
   \end{block}
 \end{frame}
@@ -216,6 +215,7 @@
 
 }
 
+\begin{comment}
 \subsection{\textit{SKA computing}, un défi HPC}
 \frame{
   %  \frametitle{}
@@ -243,7 +243,7 @@
    
 %}
 }
-
+\end{comment}
 
 \subsection{Objectifs}
 \frame{
@@ -262,7 +262,7 @@
     %\frametitle{An interdisciplinary Team}
     %\begin{block}{SimSDP}<2>
         \centering
-    \includegraphics<2>[width=0.7\textwidth]{simsdp_architecture-light.png}  
+    \includegraphics[width=0.7\textwidth]{simsdp_architecture-light.png}  
 %\end{block}
 
 }
@@ -296,7 +296,67 @@
 %}
 
 
+\section{Travaux SATIE}
 
+\begin{frame}
+  \frametitle{Laboratoire SATIE}
+  \vfill %                                                                                                                      
+  %Université Paris-Saclay -- CNRS -- CentraleSupélec \vfill
+  \vfill
+  \begin{block}{Groupe MOSS - Méthodes et Outils pour les Signaux et Systèmes}
+    \begin{itemize}
+  \item  \(\approx \) 25 permanents et \(\approx\) 20 doctorants
+  \item \textbf{Travaux SKA} \\
+ \vspace{0.1cm}
+  Pascal Larzabal, Lucien Bacharach, Isabelle Vin + Nicolas Gac \scriptsize{(01/09)}
+\end{itemize}
+  \end{block}
+  \vfill
+
+  \begin{block}{Trois thèses en cours}
+    \begin{itemize}
+     \item \normalsize{Yassine Mhiri (2020-23)}\hfill \scriptsize{Larzabal (SATIE) \& El Korso (L2S)} \\
+    \small{\textit{Traitement statistique des signaux observés par les futurs grands radiotélescopes}}\\
+    \item \normalsize{Jianhua Wang (2022-25)} \hfill \scriptsize{Larzabal/Bacharach (SATIE) \& El Korso (L2S) } \\
+    \small{\textit{Méthodes de traitement du signal pour le design d'instruments en radioastronomie}}\\
+    \item \normalsize{Nawel Arab (2022-25)}\hfill \scriptsize{Larzabal (SATIE) \& El Korso (L2S)} \\
+    \small{\textit{Maximum de vraisemblance pour l’imagerie dynamique en radioastronomie}}\\
+    \end{itemize}
+  \end{block}
+  
+\end{frame}
+
+
+
+\section{Travaux futurs}
+
+\begin{frame}
+  %\frametitle{Laboratoire SATIE}
+  %                                                                                                                      
+  %Université Paris-Saclay -- CNRS -- CentraleSupélec \vfill
+  \vfill
+  \begin{block}{}
+    \begin{itemize}
+  \item  \(\approx \) 25 permanents et \(\approx\) 20 doctorants
+  \item \textbf{Travaux SKA} \\
+ \vspace{0.1cm}
+  Pascal Larzabal, Lucien Bacharach, Isabelle Vin + Nicolas Gac \scriptsize{(01/09)}
+\end{itemize}
+  \end{block}
+  \vfill
+
+  \begin{block}{Trois thèses en cours}
+    \begin{itemize}
+     \item \normalsize{Yassine Mhiri (2020-23)}\hfill \scriptsize{Larzabal (SATIE) \& El Korso (L2S)} \\
+    \small{\textit{Traitement statistique des signaux observés par les futurs grands radiotélescopes}}\\
+    \item \normalsize{Jianhua Wang (2022-25)} \hfill \scriptsize{Larzabal/Bacharach (SATIE) \& El Korso (L2S) } \\
+    \small{\textit{Méthodes de traitement du signal pour le design d'instruments en radioastronomie}}\\
+    \item \normalsize{Nawel Arab (2022-25)}\hfill \scriptsize{Larzabal (SATIE) \& El Korso (L2S)} \\
+    \small{\textit{Maximum de vraisemblance pour l’imagerie dynamique en radioastronomie}}\\
+    \end{itemize}
+  \end{block}
+  
+\end{frame}
 
 \setbeamercolor{background canvas}{bg=black}
 \section*{C'est fini !}
@@ -307,7 +367,7 @@
 \vspace{1.1cm}
 \centering
 {\huge\textcolor{white}{Merci de votre attention }\\
-\vspace{1.5cm}
+\vspace{1.cm}
 \textcolor{white}{\small{\underline{Contacts}}}\\
 \flushleft
 \normalsize{\textcolor{white}{\textbf{SATIE}}}
